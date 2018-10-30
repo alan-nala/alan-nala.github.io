@@ -27,9 +27,9 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="1950.3888"
-     inkscape:cx="1948.7014"
-     inkscape:zoom="0.17677671"
+     inkscape:cy="2712.3146"
+     inkscape:cx="1925.7739"
+     inkscape:zoom="0.50000004"
      units="cm"
      showgrid="false"
      id="namedview4"
@@ -67,7 +67,7 @@
        position="1494.047,1929.7912"
        orientation="0,1"
        id="guide5602" /><sodipodi:guide
-       position="2494.6583,2450.6242"
+       position="3049.0442,2726.6033"
        orientation="0,1"
        id="guide5604" /><sodipodi:guide
        position="3089.2797,931.35661"
@@ -76,7 +76,7 @@
        position="1199.8906,2059.8988"
        orientation="0,1"
        id="guide5536" /><sodipodi:guide
-       position="888.12606,1329.3605"
+       position="1815.8501,1306.7331"
        orientation="0,1"
        id="guide5538" /><sodipodi:guide
        position="3273.1275,3725.8421"
@@ -2821,7 +2821,7 @@
        inkscape:connector-curvature="0"
        id="path2330"
        style="fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 1564.3016,2522.3119 -369.2093,-224.9921 -369.19075,224.9921 0,450.0032 369.19075,225.0047 369.2092,-225.0047 0,-450.0032" /><path
+       d="m 1562.7016,2520.7119 -369.2093,-224.9921 -369.19075,224.9921 0,450.0032 369.19075,225.0047 369.2092,-225.0047 0,-450.0032" /><path
        inkscape:connector-curvature="0"
        id="path2158"
        style="fill:#00ffe7;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -2867,7 +2867,7 @@
          inkscape:connector-curvature="0" /></a><a
        id="a5534"
        xlink:href="#3"
-       transform="translate(-24,161.6)"
+       transform="translate(-25.6,161.6)"
        style="fill:#1e1e1e;fill-opacity:1"><path
          d="m 1552.5204,2394.3865 -335.5706,-204.008 -335.5408,204.008 0,408.0234 335.5408,203.9687 335.5706,-203.9687 0,-408.0234"
          style="fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -4616,7 +4616,7 @@
          transform="scale(1,-1)" /></a><a
        id="a11227"
        xlink:href="#7"
-       transform="matrix(1.0480299,0,0,1.0480299,-129.63751,-72.66084)"><image
+       transform="matrix(1.0754716,0,0,1.0754716,-190.30777,-161.25939)"><image
          sodipodi:absref="/home/alan/QUANT/Tesis/CHARLA/sist-t2.gif"
          xlink:href="sist-t2.gif"
          y="-2369.8894"
@@ -4646,7 +4646,7 @@
 <a
        xlink:href="#8"
        id="a14059"
-       transform="translate(8,4.8)"><image
+       transform="translate(8,1.6)"><image
          sodipodi:absref="/home/alan/QUANT/Tesis/CHARLA/op3.gif"
          xlink:href="op3.gif"
          y="-1219.7731"
@@ -4676,7 +4676,7 @@
 <a
        id="a9407"
        xlink:href="#5"
-       transform="translate(10.101932,145.6)"><image
+       transform="translate(10.101932,118.4)"><image
          sodipodi:absref="/home/alan/QUANT/Tesis/CHARLA/dim.gif"
          xlink:href="dim.gif"
          y="-2238.4841"
@@ -4696,7 +4696,7 @@
          inkscape:connector-curvature="0" /></a><a
        xlink:href="#6"
        id="a8378"
-       transform="matrix(1.0754716,0,0,1.0754716,-56.098076,-115.79072)"><image
+       transform="matrix(1.0754716,0,0,1.0754716,-56.098076,-122.19072)"><image
          sodipodi:absref="/home/alan/QUANT/Tesis/CHARLA/cadena.gif"
          xlink:href="cadena.gif"
          transform="scale(1,-1)"
@@ -4758,20 +4758,19 @@
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Accanthis ADF Std';-inkscape-font-specification:'Accanthis ADF Std Bold Italic';fill:#ff868f;fill-opacity:1;stroke:#191658;stroke-opacity:1" /></text>
 <a
-       id="a16859"
-       xlink:href="file:///home/alan/QUANT/Tesis/CHARLA/spingral/press.html"
-       transform="translate(-3.2,-3.2)"><text
+       xlink:href="Dimeros.svg"
+       id="a5592"><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.00000763px;line-height:125%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffab37;fill-opacity:1;stroke:#191658;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="217.7963"
-         y="-2391.5054"
+         x="214.5963"
+         y="-2388.3054"
          id="text15665-3"
          sodipodi:linespacing="125%"
          transform="scale(1,-1)"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.00000381px;font-family:'Accanthis ADF Std';-inkscape-font-specification:'Accanthis ADF Std Bold';fill:#ffab37;fill-opacity:1;stroke:#191658;stroke-opacity:1"
            sodipodi:role="line"
-           x="217.79631"
-           y="-2391.5054"
+           x="214.59631"
+           y="-2388.3054"
            id="tspan15675-5">CADENAS DIMERIZADAS</tspan></text>
 </a><a
        transform="matrix(1.0283074,0,0,1.0283074,7950.2449,428.62357)"
