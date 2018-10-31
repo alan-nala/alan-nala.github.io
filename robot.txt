@@ -1,2 +1,5 @@
 User-agent: *
 Disallow: /spingral/
+
+User-agent: *
+Allow: /
