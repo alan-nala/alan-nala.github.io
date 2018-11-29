@@ -9,15 +9,16 @@
 
 </section><section data-background="map.png" data-background-size="cover" data-background-color="#111">
 
-## Entrelazamiento
+</section><section data-background="cups2.jpg" data-background-size="cover" data-background-color="#111">
+<h1><p style="color: #3300FF "><strong>Entrelazamiento</strong></p></h1>
 
-E. Schrödinger 1935
+<p style="color: #3300FF"><strong>E. Schrödinger 1935</strong></p>
 
 <span class="fragment (appear)" data-fragment-index="1"><p>		
-<blockquote cite="">&ldquo;The characteristic trait of Quantum Mechanics&rdquo;</blockquote>
+<blockquote cite=""><p style="color: white">&ldquo;The characteristic trait of Quantum Mechanics&rdquo;</p></blockquote>
 		
 <span class="fragment (appear)" data-fragment-index="2"><p>
-Correlaciones sin análogo clásico en sistemas compuestos 
+<p style="color: white">Correlaciones sin análogo clásico en sistemas compuestos</p> 
 
 ## ¿Qué es una Computadora Cuántica?
 </section><section data-background-video="QM1.mp4" data-background-size="cover" controls id="video1" data-transition="fade"> 
