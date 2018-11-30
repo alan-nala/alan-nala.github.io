@@ -93,29 +93,26 @@ Momento transverso lineal de fotones individuales para representar al tiempo $|t
 y su polarización lineal para codificar al estado $|S_t\rangle$ del sistema cuántico $S$.</p>
 
 
-##
+## El arreglo experimentar para simular evolución
 <span class="fragment (appear)" data-fragment-index="2"><p>![](SETUP.jpg){height=400px}
+<span class="fragment current-visible">Se ilumina con un láser de estado sólido de $660\text{nm}$</p>
+
+<span class="fragment current-visible"> Incide en un 
+modulador espacial de luz programable ({\it Spatial Light Modulator:} <i>SLM</i>,
+basado en un micro-display de <i> Liquid Crystal-on-Silicon: (LCoS)</i> reflectivo, con una resolución 
+espacial de 1024x768 píxeles.</p>
+
+<span class="fragment current-visible">Tiene la posibilidad de modificar dinámicamente la función óptica en la pantalla, píxel a píxel,
+permitiendo simular al estado historia $|\Psi\rangle$</p>
 
 ##
-El arreglo experimentar para simular evolución
-cuántica paralela en el tiempo se presenta en la  Fig.~\ref{fig:setup}. En la primera parte, 
-se ilumina con un láser de estado sólido de $660\text{nm}$,
-el cual es filtrado y colimado de forma tal que incida en un 
-modulador espacial de luz programable ({\it Spatial Light Modulator:} $\text{SLM}$) con una onda plana de fase aproximadamente constante y amplitud distribuida sobre la región de interés ({\it Region Of Interest: ROI}). 
-Este SLM, basado en un micro-display de {\it Liquid Crystal-on-Silicon: (LCoS)} reflectivo, con una resolución 
-espacial de 1024x768 píxeles, se emplea para representar al estado historia $|\Psi\rangle$, dando la posibilidad de modificar dinámicamente la función óptica en la pantalla, píxel a píxel.
-En particular, el SLM utilizado en nuestro experimento,
-está formado por un {\it HoloEye Lc-R 2500} 
-en combinación con un polarizador (P1) 
-y una placa de cuarto de onda (QW1) 
-que provee el estado de luz
-polarizada incidente adecuado 
-para alcanzar la amplitud máxima
-y modulación de fase entre dos polarizaciones ortogonales~\cite{marquez2001,marquez2008}.  %{\color{red} (ver si van estas Refs.)}. 
-Esto nos permite tener un amplio rango de modulación de polarización para la cual la amplitud del campo electromagnético se mantiene constante,
-independientemente del nivel de gris para el cual se configuran los píxeles del {\it LCoS}. A su vez, para este estado inicial,
-no hay fase inicial adicional en el estado de salida debida al 
-camino óptico. %In Fig.~\ref{fig:sphere} we see the output polarization states accessible trough the SLM when the input beam is prepared in a particular state elliptically polarized. Each point on the Bloch sphere corresponds to the particular grey level, between 0 and 255, addressed on the SLM.
+<span class="fragment current-visible"></p>
+
+<span class="fragment current-visible"></p>
+
+<span class="fragment current-visible"></p>
+
+ %In Fig.~\ref{fig:sphere} we see the output polarization states accessible trough the SLM when the input beam is prepared in a particular state elliptically polarized. Each point on the Bloch sphere corresponds to the particular grey level, between 0 and 255, addressed on the SLM.
 
 
 

@@ -72,4 +72,8 @@ Teleportación Cuántica
 ## ¿Qué Computadoras Cuánticas Existen?
 </section><section data-background-video="QM2.mp4" data-background-size="cover" data-background-color="#000" id="este" class="slide level2">
 
+## Generalidades
+
+<a href="../Generalidades.svg">![](Blackboard.jpg){height=600px}</a>
+
 # <a href="../Portada2.svg#3">![](../home.png)</a>
