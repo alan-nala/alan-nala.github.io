@@ -138,6 +138,22 @@ cada una con un nivel de gris constante particular.</p>
 <p class="fragment current-visible">
 Permite generar ocho estados de polarización $|S_t\rangle$</p>
 
+## Promedios Temporales
+<span class="fragment (appear)" data-fragment-index="1"><p>
+Se describió el arreglo experimental para simular estados historia.
+
+<span class="fragment (appear)" data-fragment-index="2"><p>
+- Podemos determinar el promedio temporal de valores medios del sistema, de dos formas:
+
+ <span class="fragment (appear)" data-fragment-index="3"><p>
+  <p class="fragment highlight-red">Por medio de medidas secuenciales en el sistema $S$</p>
+ <p class="fragment highlight-blue">Con una sola medida sobre el estado historia, que contiene toda la evolución del sistema $S$.</p>
+ <p class="fragment grow"> $\frac{1}{N} \sum_{t=0}^{N-1} \langle S_t|\hat{\sigma}_\mu|S_t\rangle= \langle\Psi|(\hat{\sigma}_\mu\otimes I)|\Psi\rangle$</p>
+
+ <span class="fragment (appear)" data-fragment-index="4"><p>  
+ <p class="fragment grow">Promedios temporales de la polarización del sistema <br> mediante una única medida.</p> 
+
+
 # <a href="../Portada2.svg#3">![](../home.png)</a>
 
 
