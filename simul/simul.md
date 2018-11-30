@@ -88,33 +88,55 @@ Una cadena de espines puede simular estados historia,
 de Procesado de Imágenes del Departamento de Física de la Facultad de Ciencias Exactas
 de la Universidad de Buenos Aires</i></p> 
 
-<span class="fragment current-visible">
-Momento transverso lineal de fotones individuales para representar al tiempo $|t\rangle$ del sistema cuántico reloj $T$, 
-y su polarización lineal para codificar al estado $|S_t\rangle$ del sistema cuántico $S$.</p>
+<p class="fragment current-visible">
+Se utilizan fotones individuales:<br>
+Polarización $\rightarrow$ estado $|S_t\rangle$ del sistema cuántico $S$<br>
+Momento transverso $\rightarrow$ tiempo $|t\rangle$ del sistema cuántico reloj $T$.</p>
 
 
-## El arreglo experimentar para simular evolución
-<span class="fragment (appear)" data-fragment-index="2"><p>![](SETUP.jpg){height=400px}
-<span class="fragment current-visible">Se ilumina con un láser de estado sólido de $660\text{nm}$</p>
-
-<span class="fragment current-visible"> Incide en un 
-modulador espacial de luz programable ({\it Spatial Light Modulator:} <i>SLM</i>,
-basado en un micro-display de <i> Liquid Crystal-on-Silicon: (LCoS)</i> reflectivo, con una resolución 
-espacial de 1024x768 píxeles.</p>
-
-<span class="fragment current-visible">Tiene la posibilidad de modificar dinámicamente la función óptica en la pantalla, píxel a píxel,
-permitiendo simular al estado historia $|\Psi\rangle$</p>
+## El Arreglo Experimental
 
 ##
-<span class="fragment current-visible"></p>
 
-<span class="fragment current-visible"></p>
+![](SETUP.jpg){height=400px}
 
-<span class="fragment current-visible"></p>
+<p class="fragment current-visible">Se ilumina con un láser de estado sólido de 660 nm.</p>
 
- %In Fig.~\ref{fig:sphere} we see the output polarization states accessible trough the SLM when the input beam is prepared in a particular state elliptically polarized. Each point on the Bloch sphere corresponds to the particular grey level, between 0 and 255, addressed on the SLM.
+<p class="fragment current-visible"> 
+Incide en un modulador espacial de luz programable <i>SLM: Spatial Light Modulator</i></p>
+
+<p class="fragment current-visible">
+Micro-display de <i>LCoS: Liquid Crystal-on-Silicon</i> reflectivo, con resolución 
+de 1024x768 píxeles.</p>
+
+<p class="fragment current-visible">
+Permite modificar dinámicamente la función óptica píxel a píxel</p> 
+
+<p class="fragment current-visible"> 
+Simular el estado historia $|\Psi\rangle$</p>
+
+<p class="fragment current-visible">En el <i>(PSA:Polarization State Analyzer)</i> <br>
+se mide y caracteriza al <i>SLM</i></p>
+
+<p class="fragment current-visible">
+Se realizaron medidas de intensidad en el plano imagen (IP)<br> 
+y de interferencia en el plano de Fourier (FP)</p>
+
+<p class="fragment current-visible">Utilizando cámaras CCD y CMOS (alta sensibilidad)</p>
 
 
+## ESQUEMA DEL SLM
+
+![](SLM.jpg){height=400px}
+
+<p class="fragment current-visible">
+Se configuran ocho regiones rectangulares independientes en la pantalla</p>
+
+<p class="fragment current-visible">
+cada una con un nivel de gris constante particular.</p> 
+
+<p class="fragment current-visible">
+Permite generar ocho estados de polarización $|S_t\rangle$</p>
 
 # <a href="../Portada2.svg#3">![](../home.png)</a>
 

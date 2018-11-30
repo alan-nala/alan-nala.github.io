@@ -135,6 +135,22 @@ body {
     opacity: 1;
     visibility: inherit; }
 
+.fragment.current-visible.visible:not(.current-fragment) {
+    animation: removed-item-animation 1s cubic-bezier(0.6, -0.05, 0.9, 0.9) forwards;
+}
+@keyframes removed-item-animation {
+    0% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+        line-height: 0px;
+        font-size: 0px;
+        height: 0px;
+        display: none;
+    }
+}
 .reveal .slides section .fragment.highlight-red,
 .reveal .slides section .fragment.highlight-current-red,
 .reveal .slides section .fragment.highlight-green,
