@@ -138,6 +138,46 @@ cada una con un nivel de gris constante particular.</p>
 <p class="fragment current-visible">
 Permite generar ocho estados de polarización $|S_t\rangle$</p>
 
+
+## 
+
+<span class="fragment (appear)" data-fragment-index="1"><p>
+Se genera el estado historia, donde el sistema $S$ 
+y el sistema reloj $T$ son emulados a través 
+de la polarización y el grado de libertad espacial.
+
+<span class="fragment (appear)" data-fragment-index="2"><p>
+$|\Psi\rangle\propto\sum_{t=0}^{N-1}\sum_{\mu,\nu}\alpha_\nu C_{\mu\nu}^{(t)}|\mu\rangle|t\rangle$
+$\sum_{\mu,\nu}\alpha_\nu C_{\mu\nu}^{(t)}|\mu\rangle|t\rangle= (U_t\otimes I)|S_0\rangle|t\rangle\equiv |S_t\rangle|t\rangle$
+
+<span class="fragment (appear)" data-fragment-index="3"><p>
+ $|S_t\rangle=U_t|S_0\rangle=\sum_{\mu,\nu}\alpha_\nu C_{\mu\nu}^{(t)}|\mu\rangle$ <br>
+es el estado de polarización asociado a la región  $t$.
+
+<span class="fragment (appear)" data-fragment-index="4"><p>
+Finalmente <p class="fragment highlight-green">$|\Psi\rangle\propto\sum_{t=0}^{N-1}U_t|S_0\rangle|t\rangle$</p>
+
+<!--
+<p class="fragment current-visible">
+$|S_0\rangle|0\rangle\stackrel{\rm{SLM}}{\Longrightarrow}
+\frac{1}{\sqrt{N}}\sum_{t=0}^{N-1}U_t|S_0\rangle|t\rangle={\cal W}\left(|S_0\rangle\sum_{t=0}^{N-1}\frac{1}{\sqrt{N}}|t\rangle\right)$
+
+${\cal W}\left(I\otimes H\right)|S_0\rangle|0\rangle$
+
+${\cal W}=\sum_t U_t\otimes|t\rangle\langle t|$
+</p>
+
+
+
+$|\Psi\rangle\propto\sum_{t=0}^{N-1}\sum_{\mu,\nu}\alpha_\nu C_{\mu\nu}^{(t)}|\mu\rangle|t\rangle$
+\end{equation}
+donde $|t\rangle=\frac{1}{\sqrt{A_t}}\int d\mathbf{x}\,{\rm rect}\!\left(\frac{x-x_t}{2a}\right){\rm rect}\!\left(\frac{y-y_t}{2b}\right)|1\mathbf{x}\rangle$. 
+
+En la implementación experimental, la modulación introducida por el {\it SLM}
+implica solamente una transformación en el grado de libertad de polarización. Esto significa que $\sum_{\mu,\nu}\alpha_\nu C_{\mu\nu}^{(t)}|\mu\rangle|t\rangle= (U_t\otimes\mathbbm{1})|S_0\rangle|t\rangle\equiv |S_t\rangle|t\rangle$, con $U_t$ 
+una matriz unitaria tal que  $|S_t\rangle=U_t|S_0\rangle=\sum_{\mu,\nu}\alpha_\nu C_{\mu\nu}^{(t)}|\mu\rangle$ es el estado de polarización asociado a la región  $t$. Luego, el {\it SLM} transforma al estado inicial del fotón 
+de la siguiente forma: -->
+
 ## Promedios Temporales
 <span class="fragment (appear)" data-fragment-index="1"><p>
 Se describió el arreglo experimental para simular estados historia.
@@ -152,6 +192,65 @@ Se describió el arreglo experimental para simular estados historia.
 
  <span class="fragment (appear)" data-fragment-index="4"><p>  
  <p class="fragment grow">Promedios temporales de la polarización del sistema <br> mediante una única medida.</p> 
+
+## Simulación de Evoluciones
+
+![](SphereF.svg){height=400px}
+
+<p class="fragment current-visible">
+Se verificó la relación introducida previamente:
+$\langle E_2 (S,T)\rangle=\frac{d_S}{d_S+1}E_2({\cal W})$</p> 
+
+<p class="fragment current-visible">
+A través de una simulación sobre 1000 estados iniciales, con un error menor a 0.01.</p> 
+
+# Concluciones
+
+## Tratamiento de Campo Medio de Pares
+
+<span class="fragment (appear)" data-fragment-index="1"><p>
+
+![](cadenablue.svg){height=200px}
+
+<span class="fragment (appear)" data-fragment-index="2"><p>
+Permite describir correlaciones cuánticas y comportamiento magnético
+
+<span class="fragment (appear)" data-fragment-index="3"><p>
+<p class="fragment highlight-blue"> Generalización a distintas configuraciones y valores del espín</p>
+
+<span class="fragment (appear)" data-fragment-index="4"><p>
+<p class="fragment grow">Nuevos Diagramas de Fases</p>
+
+## Modelo Cuántico de Tiempo
+
+<span class="fragment (appear)" data-fragment-index="1"><p>
+![](st1.svg){height=200px}
+
+<span class="fragment (appear)" data-fragment-index="2"><p>
+<p class="fragment highlight-green">Concepto de Entrelazamiento Sistema-Tiempo</p>
+
+<span class="fragment (appear)" data-fragment-index="3"><p>
+<p class="fragment highlight-blue">Extensión a Estados Historia de Operador</p>
+
+<span class="fragment (appear)" data-fragment-index="4"><p>
+<p class="fragment grow">Simulable Experimentalmente</p>
+
+
+## Simulaciones Experimentales
+
+<span class="fragment (appear)" data-fragment-index="1"><p>
+
+Relojes Cuánticos de Espines
+
+![](dimclock.svg){height=200px}
+
+<span class="fragment (appear)" data-fragment-index="2"><p>
+
+Simulación por Medios Ópticos
+
+![](SETUP.jpg){height=200px}
+
+## ¡Gracias!
 
 
 # <a href="../Portada2.svg#3">![](../home.png)</a>
