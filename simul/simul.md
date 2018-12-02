@@ -14,7 +14,7 @@ Relojes Cuánticos de Espines
 
 ##
 <span class="fragment (appear)" data-fragment-index="1"><p>
-Cadena de <b>2n</b> espines:<b>n</b> &quot;externos&quot; y <b>n</b> &quot;internos&quot;
+Cadena de <b>2n</b> espines: <b>n</b> &quot;externos&quot; y <b>n</b> &quot;internos&quot;
 $|\Psi\rangle=\sum_{J,L}C_{JL}|J\rangle|L\rangle$
 <span class="fragment (appear)" data-fragment-index="2"><p>
 $|J\rangle$ y $|L\rangle$: estados ortonormales. 
@@ -250,8 +250,18 @@ Simulación por Medios Ópticos
 
 ![](SETUP.jpg){height=200px}
 
-## ¡Gracias!
+# ¡Gracias!
 
+##
+
+<a href="http://www.tsys.tk"><h1>tsys.tk</h1></a>
+
+<a href="https://github.com/alan-nala/alan-nala.github.io">![](Git2.png){height=100px}</a>
+
+<a href="mailto:alan.boette@fisica.unlp.edu.ar">alan.boette@fisica.unlp.edu.ar</a>
+
+
+</section><section data-background="foto.jpg" data-background-size="640px" data-background-color="#111">
 
 # <a href="../Portada2.svg#3">![](../home.png)</a>
 
