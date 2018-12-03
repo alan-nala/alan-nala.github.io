@@ -53,10 +53,10 @@ Así, la descomposición de Schmidt toma la forma
 $|\Psi\rangle=\sum_{k_1\ldots,k_n}\sqrt{p}_{k_1}\ldots\sqrt{p}_{k_n}|k_{1I}\ldots k_{nI}\rangle|-k_{1E}\ldots -k_{nE}\rangle$
 
 <span class="fragment (appear)" data-fragment-index="4"><p>
-Los estados de Schmidt locales son precisamente estados producto de los $n$ espines $I$ o $E$. 
-Los estados $|K_E\rangle=|k_{1E}\ldots k_{nE}\rangle$, 
-con $k_i=1,\ldots, 2s+1$,  $K=1,\ldots d^n$, 
-forman una base producto, con $K$ expresado en notación de base $d=2s+1$ (binaria si $s=1/2$, ``ternaria'' si $s=1$, etc.).
+Los estados de Schmidt locales son precisamente estados producto de los $n$ espines $I$ o $E$. <br>
+Los estados $|K_E\rangle=|k_{1E}\ldots k_{nE}\rangle$, con $k_i=1,\ldots, 2s+1$,  $K=1,\ldots d^n$, <br>
+forman una base producto, con $K$ expresado en notación de base $d=2s+1$ <br>
+(binaria si $s=1/2$, ``ternaria'' si $s=1$, etc.).
 
 
 ##
@@ -91,7 +91,7 @@ de la Universidad de Buenos Aires</i></p>
 <p class="fragment current-visible">
 Se utilizan fotones individuales:<br>
 Polarización $\rightarrow$ estado $|S_t\rangle$ del sistema cuántico $S$<br>
-Momento transverso $\rightarrow$ tiempo $|t\rangle$ del sistema cuántico reloj $T$.</p>
+Posición transversal $\rightarrow$ tiempo $|t\rangle$ del sistema cuántico reloj $T$.</p>
 
 
 ## El Arreglo Experimental
@@ -204,7 +204,7 @@ $\langle E_2 (S,T)\rangle=\frac{d_S}{d_S+1}E_2({\cal W})$</p>
 <p class="fragment current-visible">
 A través de una simulación sobre 1000 estados iniciales, con un error menor a 0.01.</p> 
 
-# Concluciones
+# Conclusiones
 
 ## Tratamiento de Campo Medio de Pares
 
