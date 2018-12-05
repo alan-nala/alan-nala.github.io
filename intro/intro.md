@@ -7,9 +7,9 @@
 
 <a href="http://dominicwalliman.com"> Mapa y videos: Dominic Walliman</a>
 
-</section><section data-background="map.png" data-background-size="cover" data-background-color="#111">
+</section><section data-background="map.png" data-background-size="1024px" data-background-color="#111">
 
-</section><section data-background="cups2.jpg" data-background-size="cover" data-background-color="#111">
+</section><section data-background="cups2.jpg" data-background-size="1024px" data-background-color="#111">
 <h1><p style="color: #3300FF "><strong>Entrelazamiento</strong></p></h1>
 
 <p style="color: #3300FF"><strong>E. Schrödinger 1935</strong></p>
@@ -21,7 +21,7 @@
 <p style="color: white">Correlaciones sin análogo clásico en sistemas compuestos</p> 
 
 ## ¿Qué es una Computadora Cuántica?
-</section><section data-background-video="QM1.mp4" data-background-size="cover" controls id="video1" data-transition="fade"> 
+</section><section data-background-video="QM1.mp4" data-background-size="1024px" controls id="video1" data-transition="fade"> 
 
 ## Algoritmos Cuánticos
 
@@ -44,7 +44,7 @@
 <span class="fragment (appear)" data-fragment-index="2"><p>
  Transformada de Fourier discreta de $2^n$ elementos
  
- <p class="fragment highlight-red">CC: Requiere $ O(2^n\, n)$ pasos (FFT)</p> 
+ <p class="fragment highlight-red">CC: Requiere $O(2^n)$ pasos (FFT)</p> 
  <p class="fragment highlight-blue">QC: Requiere solo $O(n^2)$ pasos!</p>
  <p class="fragment grow">Cambio de complejidad (exponencial a polinómica)</p>
 
@@ -70,7 +70,7 @@ Teleportación Cuántica
 
 
 ## ¿Qué Computadoras Cuánticas Existen?
-</section><section data-background-video="QM2.mp4" data-background-size="cover" data-background-color="#000" id="este" class="slide level2">
+</section><section data-background-video="QM2.mp4" data-background-size="800px" data-background-color="#000" id="este" class="slide level2">
 
 ## Generalidades
 
