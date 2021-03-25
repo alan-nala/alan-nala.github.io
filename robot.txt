@@ -1,7 +1,0 @@
-User-agent: Googlebot
-Disallow: /spingral/
-
-User-agent: *
-Allow: /
-
-Sitemap: http://www.tsys.tk/sitemap.xml
